@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+header{
+    background-color: lightgray;
+    height:40px;
+    padding: 5px 0 5px 10px; 
+}
+
+#logo {
+    height: 100%;
+    vertical-align: middle;
+}
+
+
+
+#navigation, #navigation li {
+    display: inline;
+}
+
+#navigation li {
+    margin-right: 10px;
+}
+
+.banner>button {
+    background-color: lightblue;
+    border-radius: 5px;
+    font-size: 15px;
+    margin: 0 auto;
+    display: block;
+    
+}
+
+.banner>h1 {
+    text-align: center;
+    color: rgb(59, 114, 197);
+}
